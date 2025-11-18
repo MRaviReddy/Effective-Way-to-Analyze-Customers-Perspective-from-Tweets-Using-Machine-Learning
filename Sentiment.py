@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import pandas as pd
 import re 
 import tweepy 
 from tweepy import OAuthHandler 
